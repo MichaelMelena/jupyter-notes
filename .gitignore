@@ -139,3 +139,5 @@ src/version.ts
 # Integration tests
 ui-tests/node_modules/
 ui-tests/test-results/
+jupyter-notes-env/Scripts/pycodestyle.exe
+jupyter-notes-env/Scripts/autopep8.exe
